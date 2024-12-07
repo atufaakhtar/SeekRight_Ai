@@ -57,7 +57,7 @@ To run this project locally, you will need:
 2. If you're running the simple HTTP server example:
 
    ```bash
-   node simple-http-server/index.js
+   node simple-http-server/sever.js
    ```
 
 3. Visit `http://localhost:3000` to see the output in the browser.
