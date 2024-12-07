@@ -82,4 +82,3 @@ Feel free to fork this repository, create pull requests, and contribute improvem
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 ```
 
-You can now copy and paste this entire content into a `README.md` file in the root of your project.
