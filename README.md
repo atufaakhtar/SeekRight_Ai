@@ -1,6 +1,3 @@
-Here is the complete `README.md` file in Markdown format for you to copy and paste:
-
-```markdown
 # SeekRight_Ai
 
 SeekRight_Ai is a project designed to demonstrate various concepts and solutions using AI and machine learning techniques. This project includes custom implementations of JavaScript operations and aims to provide simple examples of working with AI-related functions in a structured environment.
